@@ -17,3 +17,10 @@ Para Aatacar la red usaremos una herramienta de Wifislax llamado Airggedon, lo a
 ![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/airgeddon-intro.png?raw=true)
 
 # ¿Cómo protegernos ante este tipo de ataques?
+
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/1.png?raw=true)
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/2.png?raw=true)
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/3.png?raw=true)
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/4.png?raw=true)
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/5.png?raw=true)
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/6.png?raw=true)
