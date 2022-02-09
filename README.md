@@ -8,3 +8,10 @@ Primero capturaremos el Handsahke para poder atacar la red wifi por diccionario,
 Para capurar el Hanshale abrimos la herramienta Handshake, donde seleccionamos la tarjeta de red y luego comenzará a escanear la red, seuidamente nos dará el resultado, seleccionamos una red y seleccionamos el ataqu 1, luego comenzará a capturar el Handshake-
 
 ![captura1](https://raw.githubusercontent.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/98d0dccf67c45914b23d63286468c038b54156ab/hackear-redes-wpa2-3.jpg)
+
+Una vez capturado el Handshake procederemos a atacar la red con un diccionario, el diccionario podeis generarlo vosotros mismos o descargarlo, dejo un enlace con la información: https://www.redeszone.net/tutoriales/seguridad/descargar-diccionario-claves-wpa/
+
+Para Aatacar la red usaremos una herramienta de Wifislax llamado Airggedon, lo arrancamos seleccionamos la tarjeta de red y comenzará a escanear, luego seleccionamos la red a atacar, nos pedirá la ruta del archivo del hadshake.cap y la ruta del archivo de diccionario.
+
+
+![captura2](https://github.com/antonioherediia/Atacar-una-wpa2-y-como-protegernos/blob/main/airgeddon-intro.png?raw=true)
